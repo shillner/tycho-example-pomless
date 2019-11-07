@@ -12,8 +12,6 @@
 @prefix acd: <conti:acd:model/> .
 @prefix core: <conti:cld:model/> .
 
-# test
-
 # comment
 <conti:acd:EventChainA/TE1> a core:Entity, acd:SwTiming;
   acd:shortName "SwTiming_1";
